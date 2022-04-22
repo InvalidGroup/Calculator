@@ -1,2 +1,6 @@
 # Calculator
-Just a calculator program.
+Just a calculator for python.
+
+# Todo 
+- [ ] GUI / UI for it
+- [ ] Installer
